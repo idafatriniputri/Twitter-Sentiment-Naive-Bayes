@@ -1,7 +1,9 @@
 # Twitter-Sentiment-Naive-Bayes
-Twitter Sentiment Analysis using Naive Bayes
+Nama  : Ida Fatrini Putri
+NPM   : 1184113 
+Kelas : D4 TI 3A
 
-You can follow the explanation for my code on my medium: https://medium.com/@koshut.takatsuji/twitter-sentiment-analysis-with-full-code-and-explanation-naive-bayes-a380b38f036b
+Twitter Sentiment Analysis using Naive Bayes
 
 This program can be followed by going through part1 through part6 sequentially. 
 
